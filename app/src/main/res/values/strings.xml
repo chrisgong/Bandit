@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">bandit</string>
+    <string name="accessibility_desc">rob shoes tools</string>
 </resources>
